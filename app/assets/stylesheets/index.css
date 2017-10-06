@@ -1,0 +1,21 @@
+/**
+ * app/assets/stylesheets/index.css
+ *
+ * Stylesheet used by index
+ *
+ * Copyright (c) 2017 Ke Qian
+ */
+
+#map-wrapper {
+    width: 70vw;
+    height: 70vh;
+}
+
+#text-stack-id {
+    font-weight: 400;
+}
+
+#text-stack-range {
+    font-weight: 600;
+    font-size: 2em;
+}
